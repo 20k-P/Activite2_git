@@ -1,2 +1,2 @@
 # Activite2_git
-Cours GIT de OpenClassroom
+Fichier README pour l'activité 2 Cours GIT de OpenClassroom
